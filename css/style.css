@@ -1,0 +1,12 @@
+.box {
+    min-height: 150px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+.box2{
+    min-height: 50px;
+    color: #fff;
+    font-size: 16px;
+}
